@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "QRCheckin",
-    "slug": "QRCheckin",
+    "name": "QR Checkin",
+    "slug": "qrcheckin",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,7 +23,9 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.github.shapelayer.qrcheckin",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
