@@ -14,6 +14,7 @@
 | Step 1 | Step 2 | Step 3 |
 | --- | --- | --- |
 | ![](./_assets/install/step1.png) | ![](./_assets/install/step2.png) | ![](./_assets/install/step3.png) |
+
 `설정` > `유용한 기능` > `측면 버튼` > `앱 열기` + 우측 `톱니바퀴` 버튼을 통해 QR Checkin 선택  
 
 * 기기에 따라 해당 기능이 다른 위치에 있거나, 아예 존재하지 않을 수 있습니다.
