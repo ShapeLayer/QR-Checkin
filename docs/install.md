@@ -2,7 +2,7 @@
 
 [마지막 릴리즈 APK 파일 다운로드](https://github.com/ShapeLayer/QR-Checkin/releases/download/1/qrcheckin-1bdc4cb2c0a240c880ea502778206085-signed.apk)
 
-본 애플리케이션은 `측면 버튼` 설정을 변경할 수 있는 기기를 대상으로 제작되었습니다. 하지만 홈 화면에 바로가기를 생성하여 한번의 터치로 바로 QR 인증을 진행할수는 있습니다.
+본 애플리케이션은 `측면 버튼` 설정을 변경할 수 있는 기기를 대상으로 제작되었습니다. 하지만 측면 버튼 설정을 변경할 수 없는 기기에서도 홈 화면에 바로가기를 생성하여 한번의 터치로 바로 QR 인증을 진행할 수 있습니다.
 
 ## 애플리케이션 다운로드
 [릴리즈](https://github.com/ShapeLayer/QR-Checkin/releases)에서 가장 최근 릴리즈의 APK 파일을 다운로드받습니다.
