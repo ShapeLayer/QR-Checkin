@@ -1,3 +1,6 @@
+# EOL 
+백신패스는 이 방식으로는 구현할 수 없습니다. 백신패스를 구현하는데 필요한 정보가 부족하므로 개발을 중단합니다.
+
 # QR Checkin
 ![](https://img.shields.io/badge/-expo-lightgrey)
 
